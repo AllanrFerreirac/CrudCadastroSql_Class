@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\CRUD_Player\CRUD_Player\bin\Debug\DbJogador.mdf
+C:\Users\Aluno\source\repos\CRUD_Player\CRUD_Player\bin\Debug\DbJogador_log.ldf
+C:\Users\Aluno\source\repos\CRUD_Player\CRUD_Player\bin\Debug\CRUD_Player.exe.config
+C:\Users\Aluno\source\repos\CRUD_Player\CRUD_Player\bin\Debug\CRUD_Player.exe
+C:\Users\Aluno\source\repos\CRUD_Player\CRUD_Player\bin\Debug\CRUD_Player.pdb
+C:\Users\Aluno\source\repos\CRUD_Player\CRUD_Player\obj\Debug\CRUD_Player.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\CRUD_Player\CRUD_Player\obj\Debug\CRUD_Player.FormPrincipal.resources
+C:\Users\Aluno\source\repos\CRUD_Player\CRUD_Player\obj\Debug\CRUD_Player.Properties.Resources.resources
+C:\Users\Aluno\source\repos\CRUD_Player\CRUD_Player\obj\Debug\CRUD_Player.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\CRUD_Player\CRUD_Player\obj\Debug\CRUD_Player.exe
+C:\Users\Aluno\source\repos\CRUD_Player\CRUD_Player\obj\Debug\CRUD_Player.pdb
